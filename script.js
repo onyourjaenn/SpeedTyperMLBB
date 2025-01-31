@@ -42,7 +42,7 @@ let randomWord;
 let score = 0;
 
 // Init time
-let time = 20;
+let time = 10;
 
 // Set difficulty to value in ls or medium
 let difficulty =
